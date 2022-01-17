@@ -123,129 +123,226 @@
       "gambar": "naraka-bp.jpg"
     }
   ],
+  "productsuser": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Back 4 Blood",
+      "harga": 700000,
+      "is_ready": true,
+      "gambar": "back-4-blood.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Far Cry 6",
+      "harga": 750000,
+      "is_ready": true,
+      "gambar": "far-cry-6.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Battlefield(TM)2042",
+      "harga": 426000,
+      "is_ready": true,
+      "gambar": "battlefield-2042-pc.jpg "
+    },
+    {
+      "id": 4,
+      "kode": "K-01",
+      "nama": "GTA 5 Premium",
+      "harga": 629000,
+      "is_ready": true,
+      "gambar": "grand-theft-auto-5-gta-v-premium-edition.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-02",
+      "nama": "Age Of Empire IV",
+      "harga": 249000,
+      "is_ready": true,
+      "gambar": "age-of-empire4-pc.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-03",
+      "nama": "Monster Hunter Stories 2",
+      "harga": 825000,
+      "is_ready": true,
+      "gambar": "Monster_hunter_2.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-04",
+      "nama": "Forza Horizon 5",
+      "harga": 650000,
+      "is_ready": true,
+      "gambar": "forza-horizon-5.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-05",
+      "nama": "CyberPunk",
+      "harga": 550000,
+      "is_ready": true,
+      "gambar": "cyberpunk.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-06",
+      "nama": "Resident Evil Vilagge",
+      "harga": 850000,
+      "is_ready": true,
+      "gambar": "re8-pc.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-07",
+      "nama": "New World",
+      "harga": 235000,
+      "is_ready": true,
+      "gambar": "New_world.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-08",
+      "nama": "Dragon Ball Z Kakarot",
+      "harga": 599000,
+      "is_ready": true,
+      "gambar": "Dragon-Ball-Z-Kakarot_2021_06-15-21_007.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-09",
+      "nama": "Naraka: Bladepoint",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "naraka-bp.jpg"
+    }
+  ],
+  "productsadmin": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Back 4 Blood",
+      "harga": 700000,
+      "is_ready": true,
+      "gambar": "back-4-blood.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Far Cry 6",
+      "harga": 750000,
+      "is_ready": true,
+      "gambar": "far-cry-6.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Battlefield(TM)2042",
+      "harga": 426000,
+      "is_ready": true,
+      "gambar": "battlefield-2042-pc.jpg "
+    },
+    {
+      "id": 4,
+      "kode": "K-01",
+      "nama": "GTA 5 Premium",
+      "harga": 629000,
+      "is_ready": true,
+      "gambar": "grand-theft-auto-5-gta-v-premium-edition.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-02",
+      "nama": "Age Of Empire IV",
+      "harga": 249000,
+      "is_ready": true,
+      "gambar": "age-of-empire4-pc.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-03",
+      "nama": "Monster Hunter Stories 2",
+      "harga": 825000,
+      "is_ready": true,
+      "gambar": "Monster_hunter_2.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-04",
+      "nama": "Forza Horizon 5",
+      "harga": 650000,
+      "is_ready": true,
+      "gambar": "forza-horizon-5.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-05",
+      "nama": "CyberPunk",
+      "harga": 550000,
+      "is_ready": true,
+      "gambar": "cyberpunk.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-06",
+      "nama": "Resident Evil Vilagge",
+      "harga": 850000,
+      "is_ready": true,
+      "gambar": "re8-pc.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-07",
+      "nama": "New World",
+      "harga": 235000,
+      "is_ready": true,
+      "gambar": "New_world.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-08",
+      "nama": "Dragon Ball Z Kakarot",
+      "harga": 599000,
+      "is_ready": true,
+      "gambar": "Dragon-Ball-Z-Kakarot_2021_06-15-21_007.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-09",
+      "nama": "Naraka: Bladepoint",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "naraka-bp.jpg"
+    }
+  ],
   "keranjangs": [
     {
       "jumlah_pemesanan": "1",
-      "keterangan": "sadsa",
+      "keterangan": "Action",
       "products": {
-        "id": 1,
-        "kode": "K-01",
-        "nama": "Back 4 Blood",
-        "harga": 700000,
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Far Cry 6",
+        "harga": 750000,
         "is_ready": true,
-        "gambar": "back-4-blood.jpg"
+        "gambar": "far-cry-6.jpg"
       },
       "id": 1
     }
   ],
   "pesanans": [
     {
-      "nama": "Edward",
-      "noId": "1",
+      "nama": "Dika",
+      "noId": "01",
+      "noWhatsapp": "0851234",
       "keranjangs": [
         {
           "jumlah_pemesanan": "1",
-          "keterangan": "mantap",
-          "products": {
-            "id": 4,
-            "kode": "K-01",
-            "nama": "GTA 5 Premium",
-            "harga": 629000,
-            "is_ready": true,
-            "gambar": "grand-theft-auto-5-gta-v-premium-edition.jpg"
-          },
-          "id": 1
-        }
-      ],
-      "id": 1
-    },
-    {
-      "nama": "Nopelia",
-      "noId": "121321312",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "mantap",
-          "products": {
-            "id": 4,
-            "kode": "K-01",
-            "nama": "GTA 5 Premium",
-            "harga": 629000,
-            "is_ready": true,
-            "gambar": "grand-theft-auto-5-gta-v-premium-edition.jpg"
-          },
-          "id": 1
-        }
-      ],
-      "id": 2
-    },
-    {
-      "nama": "Adi",
-      "noId": "21321321312",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "sadsadsa",
-          "products": {
-            "id": 10,
-            "kode": "K-07",
-            "nama": "New World",
-            "harga": 235000,
-            "is_ready": true,
-            "gambar": "New_world.jpg"
-          },
-          "id": 1
-        }
-      ],
-      "id": 3
-    },
-    {
-      "nama": "Edward",
-      "noId": "1901020010",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "WOWOWOWO",
-          "products": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Back 4 Blood",
-            "harga": 700000,
-            "is_ready": true,
-            "gambar": "back-4-blood.jpg"
-          },
-          "id": 1
-        }
-      ],
-      "id": 4
-    },
-    {
-      "nama": "Tes",
-      "noId": "0011",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "Tes",
-          "products": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Battlefield(TM)2042",
-            "harga": 426000,
-            "is_ready": true,
-            "gambar": "battlefield-2042-pc.jpg "
-          },
-          "id": 2
-        }
-      ],
-      "id": 5
-    },
-    {
-      "nama": "Edward",
-      "noId": "3",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "sda",
+          "keterangan": "Action",
           "products": {
             "id": 2,
             "kode": "K-02",
@@ -257,7 +354,28 @@
           "id": 1
         }
       ],
-      "id": 6
+      "id": 1
+    },
+    {
+      "nama": "dika",
+      "noId": "01",
+      "noWhatsapp": "081214",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "Action",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Far Cry 6",
+            "harga": 750000,
+            "is_ready": true,
+            "gambar": "far-cry-6.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
     }
   ]
 }
